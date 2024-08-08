@@ -2,8 +2,11 @@
 
 This project demonstrates how to create a form using Formik and Yup in React. The form includes email and password fields with specific validation requirements.
 
+
 ## Live Project Link
 https://form-validation-formikand-yup.vercel.app/
+
+## Note find SingUp.jsx file inside assets folder
 
 ## Table of Contents
 
