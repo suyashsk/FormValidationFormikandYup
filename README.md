@@ -28,7 +28,7 @@ Formik is a popular form library for React that simplifies form management with 
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 
 Navigate to the project directory:
 cd formik-yup-form-example
